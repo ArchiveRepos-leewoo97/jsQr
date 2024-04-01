@@ -1,3 +1,4 @@
+# 참고사이트 : https://wickedmagica.tistory.com/154
 # jsQR
 
 [![Build Status](https://travis-ci.org/cozmo/jsQR.svg?branch=master)](https://travis-ci.org/cozmo/jsQR)
