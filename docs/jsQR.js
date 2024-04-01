@@ -375,6 +375,7 @@ function jsQR(data, width, height, providedOptions) {
         result = scan(tryInvertedFirst ? binarized : inverted);
     }
     if (result) {
+        console.log(result.data)
         // 결과가 있을 때 원하는 조건에 따라 페이지 이동
         window.location.href = "https://www.google.com"; // Google 메인 페이지로 이동합니다.
     } else {
